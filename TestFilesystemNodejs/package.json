@@ -1,0 +1,17 @@
+{
+  "name": "testfilesystemnodejs",
+  "version": "1.0.0",
+  "description": "Test FileSystem",
+  "main": "server.js",
+  "type":"module",
+  "scripts": {
+    
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Giuseppe Giordano",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

@@ -1,0 +1,9 @@
+Sviluppare un applicazione Nodejs che prende sulla linea di comando tre parametri.
+
+Il primo parametro indica il path dove deve essere creato il file.
+Il secondo paramentro indica il nome del file che si intende creare .
+Il terzo parametro indica il contenuto da scrivere sul file sul file.
+
+Suggerimento, ricordati di importare import process from 'process'; e di utilizzare "process.argv"
+per recuperare i dati dalla linea di comando.
+

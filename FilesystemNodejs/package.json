@@ -1,0 +1,16 @@
+{
+  "name": "filesystemnodejs",
+  "version": "1.0.0",
+  "description": "FileSystem with nodejs",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Giuseppe Giordano",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

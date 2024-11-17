@@ -1,0 +1,6 @@
+console.log(process.argv);
+console.log(process.argv.slice(4));
+console.log(buf.toString());
+for (let i = 4; i < process.argv.length; i++) {
+    data = data + `${process.argv[i]} `;
+}
